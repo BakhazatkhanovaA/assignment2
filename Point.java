@@ -17,9 +17,7 @@ public class Point {
 	public int getX() {
 		return this.x;
 	}
-	public int getY() {
-		return this.y;
-	}
+	
 	
 	public double distance (Point B) 	
 	{
